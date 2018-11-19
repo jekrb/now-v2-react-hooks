@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "name": "now-v2-react-hooks",
+    "builds": [
+        { "src": "next.config.js", "use": "@now/next" }
+    ]
+}
